@@ -10,7 +10,7 @@ public class Campo {
 		
 		jogador1.nomeJogador = "Alex";
 		jogador1.timeJogador = "Santos";
-		jogador1.setPosicaoJogador ("Atacante do meu coracao!");
+		jogador1.setPosicaoJogador ("Atacante!");
 		
 		jogador2.nomeJogador = "Vitao";
 		jogador2.timeJogador = "Santos";
